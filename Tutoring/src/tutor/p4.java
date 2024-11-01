@@ -42,6 +42,7 @@ public class p4 {
 		Movie_m m1 = new Movie_m(m,"A","컨저링",112);
 		Movie_m m2 = new Movie_m(m,"B","아바타",192);
 		Movie_m m3 = new Movie_m(m,"C","어바웃 타임",120);
+		System.out.print("asd");
 		
 		m1.start();
 		m2.start();
